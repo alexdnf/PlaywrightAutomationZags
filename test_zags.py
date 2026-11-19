@@ -36,7 +36,6 @@ def test_user_form_fill_for_marriage_registration(page, user_form_data, citizen_
     expect(user_form.success_mark).to_have_count(2)
     expect(citizen_data_form.subtitle).to_be_visible()
     citizen_data_form.fill_citizen_form(**citizen_form_data)
-    page.pause()
     expect(citizen_data_form.accept_button).to_be_enabled()
     citizen_data_form.to_accept_form()
 
