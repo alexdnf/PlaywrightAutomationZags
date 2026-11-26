@@ -1,1 +1,1 @@
-[![Playwright Tests](https://github.com/alexdnf/PlaywrightAutomationZags/actions/workflows/playwright.yml/badge.svg)](https://github.com/alexdnf/PlaywrightAutomationZags/actions/workflows/playwright.yml)
+[![Playwright Tests Results](https://github.com/alexdnf/PlaywrightAutomationZags/actions/workflows/playwright.yml/badge.svg)](https://github.com/alexdnf/PlaywrightAutomationZags/actions/workflows/playwright.yml)
